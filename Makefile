@@ -120,15 +120,15 @@ endif
 
 build-linux:
 	mkdir -p $(BUILDDIR)
-	docker build --no-cache --tag msgrfinance/mstchain ./
-	docker create --name temp msgrfinance/mstchain:latest
+	docker build --no-cache --tag msgrfinance/messengerchain ./
+	docker create --name temp msgrfinance/messengerchain:latest
 	docker cp temp:/usr/local/bin/msgrcd $(BUILDDIR)/
 	docker rm temp
 
 build-linux-with-shared-library:
 	mkdir -p $(BUILDDIR)
-	docker build --tag msgrfinance/mstchain-shared ./ -f ./shared.Dockerfile
-	docker create --name temp msgrfinance/mstchain-shared:latest
+	docker build --tag msgrfinance/messengerchain-shared ./ -f ./shared.Dockerfile
+	docker create --name temp msgrfinance/messengerchain-shared:latest
 	docker cp temp:/usr/local/bin/msgrcd $(BUILDDIR)/
 	docker cp temp:/lib/libwasmvm.so $(BUILDDIR)/
 	docker rm temp

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/msgrfinance/mstchain/v1/app/wasmconfig"
+	"github.com/msgrfinance/messengerchain/v1/app/wasmconfig"
 
 	serverconfig "github.com/cosmos/cosmos-sdk/server/config"
 )
@@ -32,7 +32,7 @@ func initAppConfig() (string, interface{}) {
 	//   own app.toml to override, or use this default value.
 	//
 	// In simapp, we set the min gas prices to 0.
-	srvCfg.MinGasPrices = "0umst"
+	srvCfg.MinGasPrices = "0umsgt"
 
 	msgrcAppConfig := MsgrcAppConfig{
 		Config:     *srvCfg,

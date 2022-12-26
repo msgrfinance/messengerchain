@@ -5,13 +5,13 @@ const (
 	AccountAddressPrefix = "msgrc"
 
 	// AppName is the application name
-	AppName = "msgrc"
+	AppName = "messenger"
 
 	// CoinType is the MST coin type as defined in SLIP44 (https://github.com/satoshilabs/slips/blob/master/slip-0044.md)
-	CoinType = 330
+	CoinType = 656
 
 	// BondDenom staking denom
-	BondDenom = "umst"
+	BondDenom = "umsgt"
 
 	authzMsgExec                        = "/cosmos.authz.v1beta1.MsgExec"
 	authzMsgGrant                       = "/cosmos.authz.v1beta1.MsgGrant"

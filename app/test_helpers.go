@@ -5,7 +5,7 @@ package app
 import (
 	"encoding/json"
 
-	"github.com/msgrfinance/mstchain/v1/app/wasmconfig"
+	"github.com/msgrfinance/messengerchain/v1/app/wasmconfig"
 	abci "github.com/tendermint/tendermint/abci/types"
 	"github.com/tendermint/tendermint/libs/log"
 	tmproto "github.com/tendermint/tendermint/proto/tendermint/types"

@@ -6,7 +6,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/server"
 	svrcmd "github.com/cosmos/cosmos-sdk/server/cmd"
 
-	msgrcapp "github.com/msgrfinance/mstchain/v1/app"
+	msgrcapp "github.com/msgrfinance/messengerchain/v1/app"
 )
 
 func main() {

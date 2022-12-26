@@ -23,8 +23,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/auth/types"
 	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
 
-	msgrcapp "github.com/msgrfinance/mstchain/v1/app"
-	"github.com/msgrfinance/mstchain/v1/app/wasmconfig"
+	msgrcapp "github.com/msgrfinance/messengerchain/v1/app"
+	"github.com/msgrfinance/messengerchain/v1/app/wasmconfig"
 )
 
 // AnteTestSuite is a test suite to be used with ante handler tests.

@@ -28,12 +28,12 @@ protoc_gen_gocosmos
 # command to generate docs using protoc-gen-doc
 buf protoc \
 -I "third_party/proto" \
---doc_out=./docs/mstchain \
+--doc_out=./docs/messengerchain \
 --doc_opt=./docs/protodoc-markdown.tmpl,proto-docs.md \
 $(find "$(pwd)/third_party/proto/cosmos" -maxdepth 4 -name '*.proto') \
 $(find "$(pwd)/third_party/proto/cosmwasm" -maxdepth 4 -name '*.proto') \
 $(find "$(pwd)/third_party/proto/ibc" -maxdepth 4 -name '*.proto')
 
 # move proto files to the right places
-# cp -r github.com/msgrfinance/mstchain/* ./
+# cp -r github.com/msgrfinance/messengerchain/* ./
 # rm -rf github.com

@@ -105,19 +105,19 @@ import (
 	"github.com/CosmWasm/wasmd/x/wasm"
 	wasmclient "github.com/CosmWasm/wasmd/x/wasm/client"
 	wasmkeeper "github.com/CosmWasm/wasmd/x/wasm/keeper"
-	customtx "github.com/msgrfinance/mstchain/v1/app/tx"
+	customtx "github.com/msgrfinance/messengerchain/v1/app/tx"
 	"github.com/prometheus/client_golang/prometheus"
 
 	// this line is used by starport scaffolding # stargate/app/moduleImport
 
 	tmjson "github.com/tendermint/tendermint/libs/json"
 
-	"github.com/msgrfinance/mstchain/v1/app/ante"
-	msgrcappparams "github.com/msgrfinance/mstchain/v1/app/params"
-	"github.com/msgrfinance/mstchain/v1/app/wasmconfig"
+	"github.com/msgrfinance/messengerchain/v1/app/ante"
+	msgrcappparams "github.com/msgrfinance/messengerchain/v1/app/params"
+	"github.com/msgrfinance/messengerchain/v1/app/wasmconfig"
 
 	// unnamed import of statik for swagger UI support
-	_ "github.com/msgrfinance/mstchain/v1/client/docs/statik"
+	_ "github.com/msgrfinance/messengerchain/v1/client/docs/statik"
 )
 
 // this line is used by starport scaffolding # stargate/wasm/app/enabledProposals

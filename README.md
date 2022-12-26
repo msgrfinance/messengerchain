@@ -4,34 +4,34 @@ parent:
 -->
 
 <div align="center">
-  <h1> MSTChain </h1>
+  <h1> MessengerChain </h1>
 </div>
 
 <div align="center">
-  <a href="https://github.com/msgrfinance/mstchain/releases/latest">
-    <img alt="Version" src="https://img.shields.io/github/tag/msgrfinance/mstchain.svg" />
+  <a href="https://github.com/msgrfinance/messengerchain/releases/latest">
+    <img alt="Version" src="https://img.shields.io/github/tag/msgrfinance/messengerchain.svg" />
   </a>
-  <a href="https://github.com/msgrfinance/mstchain/blob/main/LICENSE">
-    <img alt="License: Apache-2.0" src="https://img.shields.io/github/license/Khaos-Labs/lsbchain.svg" />
+  <a href="https://github.com/msgrfinance/messengerchain/blob/main/LICENSE">
+    <img alt="License: Apache-2.0" src="https://img.shields.io/github/license/msgrfinance/messengerchain.svg" />
   </a>
-  <a href="https://pkg.go.dev/github.com/msgrfinance/mstchain?tab=doc">
-    <img alt="GoDoc" src="https://godoc.org/github.com/msgrfinance/mstchain?status.svg" />
+  <a href="https://pkg.go.dev/github.com/msgrfinance/messengerchain?tab=doc">
+    <img alt="GoDoc" src="https://godoc.org/github.com/msgrfinance/messengerchain?status.svg" />
   </a>
-  <a href="https://goreportcard.com/report/github.com/msgrfinance/mstchain">
-    <img alt="Go report card" src="https://goreportcard.com/badge/github.com/msgrfinance/mstchain"/>
+  <a href="https://goreportcard.com/report/github.com/msgrfinance/messengerchain">
+    <img alt="Go report card" src="https://goreportcard.com/badge/github.com/msgrfinance/messengerchain"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/msgrfinance/mstchain">
-    <img alt="Lines Of Code" src="https://tokei.rs/b1/github/msgrfinance/mstchain" />
+  <a href="https://github.com/msgrfinance/messengerchain">
+    <img alt="Lines Of Code" src="https://tokei.rs/b1/github/msgrfinance/messengerchain" />
   </a>
 </div>
 
-This repository hosts mstchain, the implementation of the lsbchain based on the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk).
+This repository hosts messengerchain, the implementation of the messengerchain based on the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk).
 
 **Note**: Requires [Go 1.18+](https://golang.org/dl/)
 
-## INSTALL MSTCHAIN
+## INSTALL MSGRCD
 
 This guide will explain how to install the msgrcd entrypoints onto your system.
 
@@ -56,12 +56,12 @@ $env:GO111MODULE="on"
 
 #### Step 2 : Build install msgrcd
 
-Next, let’s install the latest version of LSBChain. Make sure you git checkout the [latest released version](https://github.com/msgrfinance/mstchain/releases).  
+Next, let’s install the latest version of LSBChain. Make sure you git checkout the [latest released version](https://github.com/msgrfinance/messengerchain/releases).  
 
 ```bash
-git clone -b <latest-release-tag> https://github.com/msgrfinance/mstchain
+git clone -b <latest-release-tag> https://github.com/msgrfinance/messengerchain
 export GO111MODULE=on
-cd mstchain && make install
+cd messengerchain && make install
 ```
 
 If this command fails due to the following error message, you might have already set LDFLAGS prior to running this step.

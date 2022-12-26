@@ -32,9 +32,9 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/crisis"
 	genutilcli "github.com/cosmos/cosmos-sdk/x/genutil/client/cli"
 
-	msgrcapp "github.com/msgrfinance/mstchain/v1/app"
-	"github.com/msgrfinance/mstchain/v1/app/params"
-	"github.com/msgrfinance/mstchain/v1/app/wasmconfig"
+	msgrcapp "github.com/msgrfinance/messengerchain/v1/app"
+	"github.com/msgrfinance/messengerchain/v1/app/params"
+	"github.com/msgrfinance/messengerchain/v1/app/wasmconfig"
 )
 
 // missing flag from cosmos-sdk

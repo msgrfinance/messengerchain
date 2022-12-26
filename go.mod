@@ -1,4 +1,4 @@
-module github.com/msgrfinance/mstchain/v1
+module github.com/msgrfinance/messengerchain/v1
 
 go 1.18
 

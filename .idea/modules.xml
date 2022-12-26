@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mstchain.iml" filepath="$PROJECT_DIR$/.idea/mstchain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/messengerchain.iml" filepath="$PROJECT_DIR$/.idea/messengerchain.iml" />
     </modules>
   </component>
 </project>

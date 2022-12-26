@@ -728,7 +728,7 @@ paths:
                           properties:
                             denom:
                               type: string
-                              example: umst
+                              example: umsgt
                             amount:
                               type: string
                               example: '50'
@@ -876,7 +876,7 @@ paths:
                                 properties:
                                   denom:
                                     type: string
-                                    example: umst
+                                    example: umsgt
                                   amount:
                                     type: string
                                     example: '50'
@@ -968,7 +968,7 @@ paths:
                           properties:
                             denom:
                               type: string
-                              example: umst
+                              example: umsgt
                             amount:
                               type: string
                               example: '50'
@@ -1133,7 +1133,7 @@ paths:
                           properties:
                             denom:
                               type: string
-                              example: umst
+                              example: umsgt
                             amount:
                               type: string
                               example: '50'
@@ -1232,7 +1232,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -1289,7 +1289,7 @@ paths:
               properties:
                 denom:
                   type: string
-                  example: umst
+                  example: umsgt
                 amount:
                   type: string
                   example: '50'
@@ -1351,7 +1351,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -1368,7 +1368,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -1394,7 +1394,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -1447,7 +1447,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -1460,7 +1460,7 @@ paths:
         description: Coin denomination
         required: true
         type: string
-        x-example: umst
+        x-example: umsgt
     get:
       deprecated: true
       summary: Total supply of a single coin denomination
@@ -1551,7 +1551,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -1601,7 +1601,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -1624,7 +1624,7 @@ paths:
                 properties:
                   denom:
                     type: string
-                    example: umst
+                    example: umsgt
                   amount:
                     type: string
                     example: '50'
@@ -1656,7 +1656,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -1731,7 +1731,7 @@ paths:
                 properties:
                   denom:
                     type: string
-                    example: umst
+                    example: umsgt
                   amount:
                     type: string
                     example: '50'
@@ -1825,7 +1825,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -1848,7 +1848,7 @@ paths:
                 properties:
                   denom:
                     type: string
-                    example: umst
+                    example: umsgt
                   amount:
                     type: string
                     example: '50'
@@ -1880,7 +1880,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -2067,7 +2067,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -2096,7 +2096,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -2128,7 +2128,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -2554,7 +2554,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -2741,7 +2741,7 @@ paths:
                           properties:
                             denom:
                               type: string
-                              example: umst
+                              example: umsgt
                             amount:
                               type: string
                               example: '50'
@@ -2791,7 +2791,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -2902,7 +2902,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -2930,7 +2930,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -2956,7 +2956,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -3062,7 +3062,7 @@ paths:
                     properties:
                       denom:
                         type: string
-                        example: umst
+                        example: umsgt
                       amount:
                         type: string
                         example: '50'
@@ -3131,7 +3131,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -3158,7 +3158,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -3200,7 +3200,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -3293,7 +3293,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -3368,7 +3368,7 @@ paths:
                     properties:
                       denom:
                         type: string
-                        example: umst
+                        example: umsgt
                       amount:
                         type: string
                         example: '50'
@@ -3438,7 +3438,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -3459,7 +3459,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -3485,7 +3485,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -3554,7 +3554,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -3688,7 +3688,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -3727,7 +3727,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -3892,7 +3892,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -3999,7 +3999,7 @@ paths:
                         properties:
                           denom:
                             type: string
-                            example: umst
+                            example: umsgt
                           amount:
                             type: string
                             example: '50'
@@ -4010,7 +4010,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -4065,7 +4065,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -4097,7 +4097,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -4163,7 +4163,7 @@ paths:
               properties:
                 denom:
                   type: string
-                  example: umst
+                  example: umsgt
                 amount:
                   type: string
                   example: '50'
@@ -4218,7 +4218,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -4250,7 +4250,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -4360,7 +4360,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -4396,7 +4396,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -4463,7 +4463,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -4477,7 +4477,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -4513,7 +4513,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -4545,7 +4545,7 @@ paths:
               properties:
                 denom:
                   type: string
-                  example: umst
+                  example: umsgt
                 amount:
                   type: string
                   example: '50'
@@ -4600,7 +4600,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -4632,7 +4632,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -4684,7 +4684,7 @@ paths:
               properties:
                 denom:
                   type: string
-                  example: umst
+                  example: umsgt
                 amount:
                   type: string
                   example: '50'
@@ -4814,7 +4814,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -4849,7 +4849,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -4961,7 +4961,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -4981,7 +4981,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -5015,7 +5015,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -5162,7 +5162,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -5179,7 +5179,7 @@ paths:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -5209,7 +5209,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -5339,7 +5339,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -5383,7 +5383,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -5466,7 +5466,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -5502,7 +5502,7 @@ paths:
                       properties:
                         denom:
                           type: string
-                          example: umst
+                          example: umsgt
                         amount:
                           type: string
                           example: '50'
@@ -38498,7 +38498,7 @@ definitions:
     properties:
       denom:
         type: string
-        example: umst
+        example: umsgt
       amount:
         type: string
         example: '50'
@@ -38542,7 +38542,7 @@ definitions:
                   properties:
                     denom:
                       type: string
-                      example: umst
+                      example: umsgt
                     amount:
                       type: string
                       example: '50'
@@ -38638,7 +38638,7 @@ definitions:
                         properties:
                           denom:
                             type: string
-                            example: umst
+                            example: umsgt
                           amount:
                             type: string
                             example: '50'
@@ -38705,7 +38705,7 @@ definitions:
               properties:
                 denom:
                   type: string
-                  example: umst
+                  example: umsgt
                 amount:
                   type: string
                   example: '50'
@@ -39203,7 +39203,7 @@ definitions:
           properties:
             denom:
               type: string
-              example: umst
+              example: umsgt
             amount:
               type: string
               example: '50'
@@ -39226,7 +39226,7 @@ definitions:
                 properties:
                   denom:
                     type: string
-                    example: umst
+                    example: umsgt
                   amount:
                     type: string
                     example: '50'
@@ -39237,7 +39237,7 @@ definitions:
           properties:
             denom:
               type: string
-              example: umst
+              example: umsgt
             amount:
               type: string
               example: '50'
@@ -39273,7 +39273,7 @@ definitions:
           properties:
             denom:
               type: string
-              example: umst
+              example: umsgt
             amount:
               type: string
               example: '50'
@@ -39346,7 +39346,7 @@ definitions:
           properties:
             denom:
               type: string
-              example: umst
+              example: umsgt
             amount:
               type: string
               example: '50'
@@ -39375,7 +39375,7 @@ definitions:
           properties:
             denom:
               type: string
-              example: umst
+              example: umsgt
             amount:
               type: string
               example: '50'
@@ -39512,7 +39512,7 @@ definitions:
         properties:
           denom:
             type: string
-            example: umst
+            example: umsgt
           amount:
             type: string
             example: '50'
@@ -39598,7 +39598,7 @@ definitions:
           properties:
             denom:
               type: string
-              example: umst
+              example: umsgt
             amount:
               type: string
               example: '50'
@@ -39612,7 +39612,7 @@ definitions:
               properties:
                 denom:
                   type: string
-                  example: umst
+                  example: umsgt
                 amount:
                   type: string
                   example: '50'
@@ -39661,7 +39661,7 @@ definitions:
           properties:
             denom:
               type: string
-              example: umst
+              example: umsgt
             amount:
               type: string
               example: '50'
@@ -39714,7 +39714,7 @@ definitions:
           properties:
             denom:
               type: string
-              example: umst
+              example: umsgt
             amount:
               type: string
               example: '50'
@@ -39725,7 +39725,7 @@ definitions:
           properties:
             denom:
               type: string
-              example: umst
+              example: umsgt
             amount:
               type: string
               example: '50'
@@ -39736,7 +39736,7 @@ definitions:
           properties:
             denom:
               type: string
-              example: umst
+              example: umsgt
             amount:
               type: string
               example: '50'
@@ -39786,7 +39786,7 @@ definitions:
               properties:
                 denom:
                   type: string
-                  example: umst
+                  example: umsgt
                 amount:
                   type: string
                   example: '50'
@@ -39936,7 +39936,7 @@ definitions:
               properties:
                 denom:
                   type: string
-                  example: umst
+                  example: umsgt
                 amount:
                   type: string
                   example: '50'
@@ -39984,7 +39984,7 @@ definitions:
               properties:
                 denom:
                   type: string
-                  example: umst
+                  example: umsgt
                 amount:
                   type: string
                   example: '50'
@@ -40032,7 +40032,7 @@ definitions:
               properties:
                 denom:
                   type: string
-                  example: umst
+                  example: umsgt
                 amount:
                   type: string
                   example: '50'
@@ -40052,7 +40052,7 @@ definitions:
           properties:
             denom:
               type: string
-              example: umst
+              example: umsgt
             amount:
               type: string
               example: '50'
@@ -40099,7 +40099,7 @@ definitions:
               properties:
                 denom:
                   type: string
-                  example: umst
+                  example: umsgt
                 amount:
                   type: string
                   example: '50'
@@ -40116,7 +40116,7 @@ definitions:
           properties:
             denom:
               type: string
-              example: umst
+              example: umsgt
             amount:
               type: string
               example: '50'
@@ -40159,7 +40159,7 @@ definitions:
               properties:
                 denom:
                   type: string
-                  example: umst
+                  example: umsgt
                 amount:
                   type: string
                   example: '50'
@@ -40216,7 +40216,7 @@ definitions:
               properties:
                 denom:
                   type: string
-                  example: umst
+                  example: umsgt
                 amount:
                   type: string
                   example: '50'

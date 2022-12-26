@@ -24,7 +24,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/types/module"
 	"github.com/cosmos/cosmos-sdk/x/genutil"
 
-	msgrcapp "github.com/msgrfinance/mstchain/v1/app"
+	msgrcapp "github.com/msgrfinance/messengerchain/v1/app"
 )
 
 const (

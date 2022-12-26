@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
-	"github.com/msgrfinance/mstchain/v1/app/wasmconfig"
+	"github.com/msgrfinance/messengerchain/v1/app/wasmconfig"
 	"github.com/stretchr/testify/require"
 	abci "github.com/tendermint/tendermint/abci/types"
 	"github.com/tendermint/tendermint/libs/log"

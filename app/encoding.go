@@ -4,7 +4,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/codec/legacy"
 	"github.com/cosmos/cosmos-sdk/std"
 
-	"github.com/msgrfinance/mstchain/v1/app/params"
+	"github.com/msgrfinance/messengerchain/v1/app/params"
 )
 
 var legacyCodecRegistered = false

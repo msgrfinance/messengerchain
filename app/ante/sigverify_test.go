@@ -10,7 +10,7 @@ import (
 	cosmosante "github.com/cosmos/cosmos-sdk/x/auth/ante"
 	"github.com/cosmos/cosmos-sdk/x/auth/legacy/legacytx"
 
-	"github.com/msgrfinance/mstchain/v1/app/ante"
+	"github.com/msgrfinance/messengerchain/v1/app/ante"
 )
 
 func (suite *AnteTestSuite) TestSigVerification() {

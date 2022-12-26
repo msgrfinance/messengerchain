@@ -2,7 +2,7 @@
 swagger: "2.0"
 info:
   version: "3.0"
-  title: "Msgrc-Lite for Msgrc"
+  title: "Messenger-Lite for Messenger"
   description: A REST interface for state queries, transaction generation and broadcasting.
 tags:
   - name: Transactions
@@ -488,7 +488,7 @@ paths:
         description: Coin denomination
         required: true
         type: string
-        x-example: umst
+        x-example: umsgt
     get:
       deprecated: true
       summary: Total supply of a single coin denomination
@@ -2332,7 +2332,7 @@ definitions:
     properties:
       denom:
         type: string
-        example: umst
+        example: umsgt
       amount:
         type: string
         example: "50"
